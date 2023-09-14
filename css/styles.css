@@ -1,0 +1,153 @@
+body{
+  margin:0px;
+  text-align: center;
+}
+h3{
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 1.55em;
+}
+h2{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color: #48d1cc;
+    font-size: 1.9em;
+}
+p{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color: grey;
+    font-size: 120%;
+    line-height: 2;
+}
+.con{
+  padding-top: 30px;
+}
+.tech{
+  margin: auto;
+  text-align: left;
+  width:75%;
+  padding-bottom: 30px;
+}
+.tc{
+  height: 100px;
+  float: left;
+  margin-right: 20px;
+}
+.mus{
+  margin: auto;
+  text-align: left;
+  width:75%;
+  padding-bottom: 30px;
+}
+.cuk{
+  height: 100px;
+  float: right;
+  margin-left: 20px;
+}
+.cok{
+  margin: auto;
+  text-align: right;
+  width:80%;
+  padding-bottom: 30px;
+}
+.cokt{
+  text-align:left;
+}
+.gui{
+  height: 100px;
+  float: left;
+  margin-right: 20px;
+}
+.self{
+  margin: auto;
+  margin-bottom: 45px;
+  width: 40%;
+}
+.skills{
+  padding-top: 20px;
+  margin: auto;
+  width: 50%;
+}
+.top{
+    background-color: #e0ffff;
+    overflow: hidden;
+    height: 640px;
+    margin-bottom: 45px;
+    padding-top: 100px;
+}
+.ns{
+  border:100px;
+  margin:auto;
+  font-family: 'Kalam', cursive;
+}
+
+.cl{
+  position: absolute;
+  height:250px;
+}
+.clt{
+  height:250px;
+  position: absolute;
+  right:300px;
+  top:100px;
+}
+.mn{
+  height:740px;
+  margin:0px;
+  border:0px;
+  padding:0px;
+}
+.me{
+  height:200px;
+  padding-top: 30px;
+}
+.mc h3{
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  color: #48d1cc;
+}
+.modruler {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 7px;
+    width: 10%;
+}
+.bot{
+  padding-top: 30px;
+  padding-bottom: 25px;
+  background-color: #48d1cc
+}
+.con{
+  padding-bottom: 40px;
+}
+.cr{
+  padding-top: 30px;
+  color: azure;
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #48d1cc;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #39868E;
+  text-decoration: none;
+}
+.contact{
+  padding-bottom: 20px;
+}
+.foot{
+  padding: 20px;
+  font-size: 1.25em;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  color: azure;
+  text-decoration: none;
+}
+.foot:hover{
+  color: #39868E;
+}
